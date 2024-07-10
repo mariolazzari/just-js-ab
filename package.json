@@ -1,0 +1,15 @@
+{
+  "name": "just-js-ab",
+  "version": "1.0.0",
+  "description": "## JavaScript’s Deferred Promise Pattern",
+  "main": "index.js",
+  "scripts": {
+    "defer": "tsnd --respawn defer"
+  },
+  "keywords": [],
+  "author": "Mario Lazzari",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
