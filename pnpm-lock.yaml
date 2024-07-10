@@ -11,6 +11,10 @@ importers:
       ts-node-dev:
         specifier: ^2.0.0
         version: 2.0.0(@types/node@20.14.10)(typescript@5.5.3)
+    devDependencies:
+      '@types/node':
+        specifier: ^20.14.10
+        version: 20.14.10
 
 packages:
 

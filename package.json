@@ -4,12 +4,16 @@
   "description": "## JavaScript’s Deferred Promise Pattern",
   "main": "index.js",
   "scripts": {
-    "defer": "tsnd --respawn defer"
+    "defer": "tsnd --respawn defer",
+    "clousures": "tsnd --respawn defer"
   },
   "keywords": [],
   "author": "Mario Lazzari",
   "license": "ISC",
   "dependencies": {
     "ts-node-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10"
   }
 }
